@@ -6,9 +6,13 @@ Making getters and setters for classes every single time you're creating them, i
 Firstly, create a .txt file on your PC with all of your data members that you want to generate the getters and setters for i.e.
 
 char* name;
+
 Date DOB;
+
 ID personID;
+
 int age;
+
 float salary;
 
 Next, run the script and it will ask you for file name. Input the file name, and it will create a file in the .exe location. You'll be good to go!
