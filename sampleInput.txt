@@ -1,0 +1,6 @@
+char* fileName;
+int age;
+Name pName;
+Person personData;
+bool status;
+int* arr;
